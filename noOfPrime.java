@@ -18,4 +18,5 @@ public class noOfPrime {
 		else
 		  System.out.println("Error");
 	}
+	
 }
